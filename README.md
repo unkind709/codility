@@ -34,3 +34,7 @@
 <br>Brackets: https://codility.com/demo/results/trainingRQ4V9Q-PWX/
 <br>Fish: https://app.codility.com/demo/results/trainingMN4Y5V-ETB/
 <br>Nesting: https://app.codility.com/demo/results/trainingSEDJ88-W3X/
+<br>StoneWall: https://app.codility.com/demo/results/trainingXS737F-8RQ/
+
+**Lesson 8: Leader**
+<br>Dominator:
