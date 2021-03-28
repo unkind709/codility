@@ -39,3 +39,6 @@
 **Lesson 8: Leader**
 <br>Dominator: https://app.codility.com/demo/results/trainingG78XPK-PFE/
 <br>EquiLeader: 
+
+**Lesson 9: Maximum slice problem**
+<br>MaxDoubleSliceSum: https://app.codility.com/demo/results/trainingHCV7B8-TKK/
