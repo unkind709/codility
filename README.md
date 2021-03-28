@@ -37,4 +37,5 @@
 <br>StoneWall: https://app.codility.com/demo/results/trainingXS737F-8RQ/
 
 **Lesson 8: Leader**
-<br>Dominator:
+<br>Dominator: https://app.codility.com/demo/results/trainingG78XPK-PFE/
+<br>EquiLeader: 
