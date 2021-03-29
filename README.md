@@ -43,3 +43,4 @@
 **Lesson 9: Maximum slice problem**
 <br>MaxDoubleSliceSum: https://app.codility.com/demo/results/trainingHCV7B8-TKK/
 <br>MaxProfit: https://app.codility.com/demo/results/trainingKGXRDB-52U/
+<br>MaxSliceSum: https://app.codility.com/demo/results/training9AFNW2-NHB/
