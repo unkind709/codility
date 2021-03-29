@@ -52,7 +52,7 @@
 <br>Peaks: https://app.codility.com/demo/results/trainingQBY4XW-AQM/
 
 **Lesson 11: Sieve of Eratosthenes**
-<br>CountNonDivisible:
+<br>CountNonDivisible: https://app.codility.com/demo/results/trainingMNRT8Y-XQB/
 <br>CountSemiprimes:
 
 **Lesson 12: 
