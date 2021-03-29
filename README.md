@@ -49,4 +49,10 @@
 <br>CountFactors: https://app.codility.com/demo/results/trainingYUNPHG-GHZ/
 <br>Flags: https://app.codility.com/demo/results/trainingQRVB4B-M3R/
 <br>MinPerimeterRectangle: https://app.codility.com/demo/results/trainingFPZV97-4EC/
+<br>Peaks: https://app.codility.com/demo/results/trainingQBY4XW-AQM/
 
+**Lesson 11: Sieve of Eratosthenes**
+<br>CountNonDivisible:
+<br>CountSemiprimes:
+
+**Lesson 12: 
