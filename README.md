@@ -48,3 +48,5 @@
 **Lesson 10: Prime and composite numbers**
 <br>CountFactors: https://app.codility.com/demo/results/trainingYUNPHG-GHZ/
 <br>Flags: https://app.codility.com/demo/results/trainingQRVB4B-M3R/
+<br>MinPerimeterRectangle: https://app.codility.com/demo/results/training69HE3A-Q4U/ (30%)
+
