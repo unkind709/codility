@@ -69,6 +69,8 @@
 
 **Lesson 15: Caterpillar method**
 <br>AbsDistinct: https://app.codility.com/demo/results/trainingNFUJPF-JW2/
-<br>CountDistinctSlices:
+<br>CountDistinctSlices: https://app.codility.com/demo/results/trainingMDX683-GGE/
+<br>CountTriangles:
+<br>MinAbsSumOfTwo:
 
 
