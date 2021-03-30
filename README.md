@@ -59,3 +59,12 @@
 <br>ChocolatesByNumbers: https://app.codility.com/demo/results/trainingGTA5B3-RVS/
 <br>CommonPrimeDivisors: https://app.codility.com/demo/results/training537SBJ-JD9/
 
+**Lesson 13: Fibonacci**
+<br>FibFrog: https://app.codility.com/demo/results/trainingUYD5VR-RCV/
+<br>Ladder:
+
+**Lesson 14: Binary search algorithm**
+<br>MinMaxDivision: 
+<br>NailingPlanks: 
+
+
