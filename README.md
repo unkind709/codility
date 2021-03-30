@@ -67,4 +67,8 @@
 <br>MinMaxDivision: 
 <br>NailingPlanks: 
 
+**Lesson 15: Caterpillar method**
+<br>AbsDistinct: https://app.codility.com/demo/results/trainingNFUJPF-JW2/
+<br>CountDistinctSlices:
+
 
