@@ -57,5 +57,5 @@
 
 **Lesson 12: Euclidean algorithm**
 <br>ChocolatesByNumbers: https://app.codility.com/demo/results/trainingGTA5B3-RVS/
-<br>CommonPrimeDivisors:
+<br>CommonPrimeDivisors: https://app.codility.com/demo/results/training537SBJ-JD9/
 
