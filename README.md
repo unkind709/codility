@@ -55,4 +55,7 @@
 <br>CountNonDivisible: https://app.codility.com/demo/results/trainingMNRT8Y-XQB/
 <br>CountSemiprimes:
 
-**Lesson 12: 
+**Lesson 12: Euclidean algorithm**
+<br>ChocolatesByNumbers: https://app.codility.com/demo/results/trainingGTA5B3-RVS/
+<br>CommonPrimeDivisors:
+
